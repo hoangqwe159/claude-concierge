@@ -1,0 +1,14 @@
+{
+    "name": "claude-concierge",
+    "description": "Personal Claude Code plugins: the concierge workflow for tmux worker sessions.",
+    "owner": {
+        "name": "hoangqwe159"
+    },
+    "plugins": [
+        {
+            "name": "concierge",
+            "source": "./plugins/concierge",
+            "description": "Concierge workflow: one Claude Code session that launches, briefs, checks on and closes Claude worker sessions in tmux, each on its own worktree. Includes the wclaude launcher. macOS, Linux and WSL."
+        }
+    ]
+}

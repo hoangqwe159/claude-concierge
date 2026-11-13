@@ -1,0 +1,8 @@
+{
+    "name": "concierge",
+    "description": "Concierge workflow: one Claude Code session that launches, briefs, checks on and closes Claude worker sessions in tmux, each on its own worktree. Includes the wclaude launcher and a bare-repository worktree layout. Session-name prefix configurable via CONCIERGE_PREFIX (default cc-). macOS, Linux and WSL.",
+    "version": "1.0.0",
+    "author": {
+        "name": "hoangqwe159"
+    }
+}
